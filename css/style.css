@@ -1,0 +1,48 @@
+body {
+    
+    background-color: #ff0000;
+    background-image: url ("image/book1.jpg");
+    color: #0055ff;
+  }
+
+
+.container{
+
+  margin-top: 5%;
+  border-radius: 10%;
+  
+
+}
+
+.card{
+  border-radius: 10%;
+}
+
+img{
+  width: 10px;
+  height: 300px;
+  
+}
+
+
+
+
+#img-table{
+  width: 50px;
+  height: 50px;
+}
+#carousel{
+  position: cover;
+  height: 100%;
+  height: 100%;
+  
+}
+.item {
+  display: block;
+  width: 100%;
+  height: 200px;
+}
+.item img {
+  height: 100%;
+  width: 100%;
+}
